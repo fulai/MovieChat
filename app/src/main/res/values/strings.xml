@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MovieChat</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_phone_area">手机号地区查询</string>
+    <string name="title_activity_movie">电影查询</string>
+    <string name="title_activity_weather">天气预报</string>
+    <string name="title_activity_base">BaseActivity</string>
+</resources>
